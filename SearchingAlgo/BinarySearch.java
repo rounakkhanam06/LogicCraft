@@ -1,5 +1,5 @@
 package SearchingAlgo;
-
+  // array must be sorted in binary search 
 
 public class BinarySearch {
     public static int binarySearch(int[] arr, int target ){
